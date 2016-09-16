@@ -9,7 +9,7 @@ The screenshot shows an example:
 The sensor is an Arduino which publishes a `1` when it comes online to the topic:
 
 ```
-clients/arduino/
+clients/arduino/led
 ```
 
 and which otherwise publishes an integer to the
