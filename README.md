@@ -4,7 +4,7 @@
 
 The screenshot shows an example:
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
 
 The sensor is an Arduino which publishes a `1` when it comes online to the topic:
 
